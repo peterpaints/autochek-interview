@@ -1,0 +1,7 @@
+.env
+.ipy*
+.jupyter
+.local
+.npm
+*.db
+.cache
